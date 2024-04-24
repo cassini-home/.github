@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/cassini-home/cassini-home/assets/1788212/86610c6e-a0ec-406e-a218-bf304ec9ef5b" alt="CASSINI - Home Automation System" width="256" height="256"/>
+  <img src="https://github.com/cassini-home/.github/blob/main/profile/cassini-logo.png?raw=true" alt="CASSINI - Home Automation System" width="256" height="256"/>
   <h1>CASSINI - Home Automation System</h1>
 </div>
 
